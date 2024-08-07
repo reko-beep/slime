@@ -1,16 +1,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/reko-beep/slime">
-    <img src="https://raw.githubusercontent.com/reko-beep/slime/main/LOGO.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/reko-beep/slime/main/logo.png" alt="Logo">
   </a>
-<!-- 
-   <h3 align="center">islam.py</h3> -->
 
-  <p align="center">
-    <!-- Fully typed python API for Hadith-API site
-    <br /> -->   
+
+  <p align="center">    
     
-    <a style="color: orange"  href="https://discord.gg/sanctuarypk">Discord</a>
+  <a style="color: orange"  href="https://discord.gg/sanctuarypk">Discord</a>
   </p>
 </p>
 
